@@ -1,0 +1,1 @@
+# How-to-calculate-the-increased-salary-of-the-worker-whose-salary-and-raise-rate-is-entered-on-Python
